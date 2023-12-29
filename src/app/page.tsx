@@ -14,7 +14,7 @@ export default async function Home() {
                <Link href="seoul">서울</Link>
            </li>
            <li>
-               <Link href="newyork">뉴욕</Link>
+               <Link href="new york">뉴욕</Link>
            </li>
            <li>
                <Link href="london">런던</Link>
